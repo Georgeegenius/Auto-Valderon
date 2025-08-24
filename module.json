@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate": false,
+    "name": "auto-valderon",
+    "author": "Georgeegenius",
+    "description": "Automatically claims Valderon guild quest rewards and opens the boxes.",
+    "version": "1.0.0",
+    "options": {
+        "niceName": "Auto Valderon",
+        "guiName": "auto-valderon"
+    },
+    "servers": ["https://raw.githubusercontent.com/Georgeegenius/Auto-Valderon/main/"],
+    "supportUrl": "https://github.com/Georgeegenius/Auto-Valderon/issues"
+}
