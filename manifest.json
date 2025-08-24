@@ -1,14 +1,6 @@
 {
-  "name": "auto-valderon",
-  "version": "1.0.0",
-  "files": [
-    {
-      "path": "index.js",
-      "hash": ""
-    },
-    {
-      "path": "module.json",
-      "hash": ""
-    }
-  ]
+  "files": {
+    "index.js": "index.js",
+    "module.json": "module.json"
+  }
 }
